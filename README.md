@@ -7,4 +7,4 @@ Started: 14 July 2026
 Goal:
 - Learn Java
 - Master DSA
-- Crack MIET Placements
+- Crack Placements
